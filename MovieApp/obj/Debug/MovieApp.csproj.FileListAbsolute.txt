@@ -1,0 +1,5 @@
+C:\Users\20522\OneDrive\Documents\c#\th1\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\20522\OneDrive\Documents\c#\th1\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\20522\OneDrive\Documents\c#\th1\MovieApp\MovieApp\obj\Debug\MovieApp.Properties.Resources.resources
+C:\Users\20522\OneDrive\Documents\c#\th1\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.GenerateResource.cache
+C:\Users\20522\OneDrive\Documents\c#\th1\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
